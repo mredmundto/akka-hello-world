@@ -1,5 +1,5 @@
 # akka-hello-world
 
-In root directionary <br />
+In root directory <br />
 mvn compile <br />
 mvn exec:exec <br />
